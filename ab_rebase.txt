@@ -5,5 +5,10 @@ a(bold)
 
 =======
 b(italics)
+<<<<<<< HEAD
 >>>>>>> Italicized the b
+=======
+b(bold)
+
+>>>>>>> Bold the b
 
