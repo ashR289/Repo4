@@ -1,5 +1,9 @@
 ab
+<<<<<<< HEAD
 a(italics)
 a(bold)
 
+=======
+b(italics)
+>>>>>>> Italicized the b
 
